@@ -1,4 +1,4 @@
-module github.com/sagikazarmark/viperx
+module github.com/catchv/viperx
 
 go 1.14
 
