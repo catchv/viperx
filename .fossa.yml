@@ -1,13 +1,13 @@
-version: 2
+version: 3
 cli:
     server: https://app.fossa.com
     fetcher: custom
     project: viperx
 analyze:
     modules:
-        -   name: github.com/sagikazarmark/viperx
+        -   name: github.com/catchv/viperx
             type: go
-            target: github.com/sagikazarmark/viperx
+            target: github.com/catchv/viperx
             strategy: gomodules
             path: .
             options:

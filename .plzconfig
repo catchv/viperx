@@ -5,7 +5,7 @@ version = 15.17.0
 PleaseGoInstall = true
 
 [go]
-importPath = github.com/sagikazarmark/viperx
+importPath = github.com/catchv/viperx
 
 [build]
 passUnsafeEnv = VAULT_ADDR

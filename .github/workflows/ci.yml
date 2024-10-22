@@ -35,7 +35,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Set up Please
-        uses: sagikazarmark/setup-please-action@v0
+        uses: catchv/setup-please-action@v0
 
       - name: Test
         run: plz test //...
@@ -66,7 +66,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Set up Please
-        uses: sagikazarmark/setup-please-action@v0
+        uses: catchv/setup-please-action@v0
 
       - name: Lint
         run: plz lint
