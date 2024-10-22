@@ -10,7 +10,7 @@ import (
 	"github.com/hashicorp/vault/api"
 	"github.com/spf13/viper"
 
-	"github.com/sagikazarmark/viperx/remote"
+	"github.com/catchv/viperx/remote"
 )
 
 // nolint: gochecknoinits
