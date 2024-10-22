@@ -1,7 +1,7 @@
 github_repo(
     name = "pleasings2",
     repo = "catchv/mypleasings",
-    revision = "3dea080ba8070af5a9dac6e382703f862e97a4f0",
+    revision = "3dea080ba8070af5a9dac6e382703f862e97a4f1",
 )
 
 http_archive(
